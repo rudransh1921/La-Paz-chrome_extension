@@ -8,10 +8,9 @@
 <h2>Features</h2>
 - Popup<BR>
 - Manifest_version:3<BR>
-- API Fetch<BR>
+- API Fetch<BR><br>
 
 
 
 
-
-![Screenshot (79)](https://github.com/rudransh1921/LaPaz_Chrome-extension/assets/125080656/a669d768-143d-4922-afb5-99671faf2693)
+![Screenshot (78)](https://github.com/rudransh1921/LaPaz_Chrome-extension/assets/125080656/b46832c8-1e83-4a4b-921b-b6e63a4989ec)
