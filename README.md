@@ -10,7 +10,7 @@
 - Manifest_version:3<BR>
 - API Fetch<BR><br>
 
-
+<h2>Screenshot</h2><br>
 
 
 ![Screenshot (78)](https://github.com/rudransh1921/LaPaz_Chrome-extension/assets/125080656/b46832c8-1e83-4a4b-921b-b6e63a4989ec)
