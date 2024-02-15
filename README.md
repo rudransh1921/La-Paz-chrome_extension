@@ -1,1 +1,1 @@
-# La-Paz-chrome_extension
+# La-Paz/chrome_extension
