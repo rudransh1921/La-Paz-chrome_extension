@@ -9,7 +9,8 @@
 - Popup<BR>
 - Manifest_version:3<BR>
 - API Fetch<BR>
-![Screenshot (77)](https://github.com/rudransh1921/LaPaz_Chrome-extension/assets/125080656/b7d6ecd1-6258-4193-97c7-ed02077d995d)
+
+[Screenshot (77)](https://github.com/rudransh1921/LaPaz_Chrome-extension/assets/125080656/b7d6ecd1-6258-4193-97c7-ed02077d995d)
 
 
 
