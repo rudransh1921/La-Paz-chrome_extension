@@ -8,7 +8,7 @@
 <h2>Features</h2>
 - Popup<BR>
 - Manifest_version:3<BR>
-- API Fetch<BR><br>
+- API Fetch<BR>
 
 <h2>Screenshot</h2><br>
 
